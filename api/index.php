@@ -1,4 +1,3 @@
 <?php
 
-echo "Testing vercel with API dir";
-?>
+header("Location ./app/welcome.php");
