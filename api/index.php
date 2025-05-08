@@ -7,5 +7,5 @@ require_once "app/CheckPhpInfo.php";
 
 $checkphpdetails = new CheckPhpInfo(phpinfo());
 
-echo $checkphpdetails->getPhpInfo();
+var_dump($checkphpdetails->getPhpInfo());
 ?>
