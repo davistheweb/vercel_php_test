@@ -1,4 +1,4 @@
 <?php
 
-echo "Testing vercel";
+echo "Testing vercel with public dir";
 ?>
