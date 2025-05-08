@@ -1,4 +1,4 @@
 <?php
 
-echo "Testing vercel with API dir";
+echo "Testing php deployment with vercel";
 ?>
